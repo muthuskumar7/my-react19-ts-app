@@ -1,5 +1,15 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
+/* 
+TODO: 
+=====
+1. Check how to import ppui styles and apply. 
+2. GOAL: Application should follow PPUI styleguides and at the same time, should utilize all the facilities Tailwind is offering.
+*/
+
+/* 
+TODO: Check these for future reference
+======================================
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -23,4 +33,4 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
-}
+} */
